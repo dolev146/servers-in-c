@@ -58,5 +58,39 @@ more searches i made
 * https://stackoverflow.com/questions/37083224/how-to-define-pthread-and-mutex-lock-in-c-files-that-depend-on-each-other
 * https://stackoverflow.com/questions/5790618/sharing-mutexes-between-modules
 
+# multi-thread server
+
+* https://github.com/bmc/daemonize
+* http://www.cplusplus.com/forum/unices/116977/
+* https://stackoverflow.com/questions/49414037/c-multi-threaded-server
+* https://vichargrave.github.io/programming/multithreaded-work-queue-based-server-in-cpp/
+* http://www.mario-konrad.ch/blog/programming/multithread/tutorial-04.html
+* https://research.cs.wisc.edu/shore/1.0/ssmvas/node5.html
+* https://stackoverflow.com/questions/34918984/design-of-multi-threaded-server-in-c
+* https://github.com/RedAndBlueEraser/c-multithreaded-client-server
+* https://beej.us/guide/bgnet/html/
+* https://stackoverflow.com/questions/21405204/multithread-server-client-implementation-in-c
+* https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
+* https://github.com/Guppster/MultiThreaded-Server/blob/master/server.c
+* https://www.geeksforgeeks.org/handling-multiple-clients-on-server-with-multithreading-using-socket-programming-in-c-cpp/
+* https://stackoverflow.com/questions/33633994/c-server-with-multiple-threads
+* https://stackoverflow.com/questions/56623685/simple-non-blocking-multi-threaded-tcp-server
+* https://stackoverflow.com/questions/27007256/c-server-socket-with-multiple-connections
+* https://stackoverflow.com/questions/14404889/c-multithreaded-server-with-stdthread-casting-variables
+* https://www.google.com/search?q=Multithreading+server+C%2B%2B&rlz=1C1ASUM_enIL953IL953&sxsrf=APq-WBtmjB0woDcIT4aFA9FXrgcOv0Tgjw%3A1650435915483&ei=S6dfYs-cHZPygQbyiIjIAQ&oq=server+multi+threaded+c&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA0oECEEYAEoECEYYAFAAWABgmiloAXABeACAAQCIAQCSAQCYAQDIAQjAAQE&sclient=gws-wiz
+* 
+
+
+
+
+
+
+
+
+
+
+
+* 
+* 
 
 
