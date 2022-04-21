@@ -10,7 +10,7 @@ from this touturial https://beej.us/guide/bgnet/html/#poll
 
 more searches i made
 
-# poll()
+# servers poll select and multi-thread and multi-proccessing
 
 * https://beej.us/guide/bgnet/html/#poll
 * https://www.youtube.com/watch?v=UP6B324Qh5k&ab_channel=ShellWave
@@ -32,6 +32,7 @@ more searches i made
 * https://www.geeksforgeeks.org/tcp-and-udp-server-using-select/
 * https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
 * https://gist.github.com/Alexey-N-Chernyshov/4634731
+* https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
 
 
 # sbrk(2) / brk(2)
