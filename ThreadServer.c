@@ -1,4 +1,7 @@
 /*
+
+gcc ThreadServer.c -o server -lpthread
+
 ** server.c -- a stream socket server demo
 *
 *   Thread version
