@@ -10,7 +10,7 @@ from this touturial https://beej.us/guide/bgnet/html/#poll
 
 more searches i made
 
-# servers poll select and multi-thread and multi-proccessing
+# poll()
 
 * https://beej.us/guide/bgnet/html/#poll
 * https://www.youtube.com/watch?v=UP6B324Qh5k&ab_channel=ShellWave
@@ -32,7 +32,7 @@ more searches i made
 * https://www.geeksforgeeks.org/tcp-and-udp-server-using-select/
 * https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
 * https://gist.github.com/Alexey-N-Chernyshov/4634731
-* https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
+
 
 
 # sbrk(2) / brk(2)
@@ -79,7 +79,7 @@ more searches i made
 * https://stackoverflow.com/questions/27007256/c-server-socket-with-multiple-connections
 * https://stackoverflow.com/questions/14404889/c-multithreaded-server-with-stdthread-casting-variables
 * https://www.google.com/search?q=Multithreading+server+C%2B%2B&rlz=1C1ASUM_enIL953IL953&sxsrf=APq-WBtmjB0woDcIT4aFA9FXrgcOv0Tgjw%3A1650435915483&ei=S6dfYs-cHZPygQbyiIjIAQ&oq=server+multi+threaded+c&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA0oECEEYAEoECEYYAFAAWABgmiloAXABeACAAQCIAQCSAQCYAQDIAQjAAQE&sclient=gws-wiz
-* 
+* https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
 
 
 
