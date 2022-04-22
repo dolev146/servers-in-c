@@ -11,6 +11,7 @@
 #include <unistd.h> // for close
 #include <pthread.h>
 
+
 void *cientThread(void *arg)
 {
     printf("In thread\n");
@@ -40,12 +41,10 @@ void *cientThread(void *arg)
     connect(clientSocket, (struct sockaddr *)&serverAddr, addr_size);
 
     strcpy(message, "Hello");
-    // printf("aaaaaa\n");
     if (send(clientSocket, message, strlen(message), 0) < 0)
     {
         printf("Send failed\n");
     }
-    // printf("msg sent\n");
 
     // Read the message from the server into the buffer
     if (recv(clientSocket, buffer, 1024, 0) < 0)
@@ -72,7 +71,7 @@ int main()
     while (i < 50)
     {
         pthread_join(tid[i++], NULL);
-        printf("%d:\n", i);
+        printf("finished %d:\n", i);
     }
     return 0;
 }
